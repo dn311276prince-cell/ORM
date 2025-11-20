@@ -24,12 +24,13 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
+NAME:DILIP KUMAR REF:25017135
 
 
 
 ## OUTPUT
+<img width="1919" height="1016" alt="{828DF14A-416A-45A6-B950-C62045581C50}" src="https://github.com/user-attachments/assets/606573d5-4abc-4f20-98a1-6e21a2a793b2" />
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
